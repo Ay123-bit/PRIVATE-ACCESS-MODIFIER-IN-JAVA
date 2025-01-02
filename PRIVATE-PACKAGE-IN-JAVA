@@ -1,0 +1,17 @@
+//INPUT
+package akhilesh;
+class A{
+    private void show(){
+        System.out.println("Learn Coding");
+    }
+    public static void main(string[] args){
+        A r=new A();
+        r.show();
+    }
+}
+//OUTPUT
+Learn Coding
+Also a new folder of name akhilesh would be created
+The file inside the folder would be A.java
+Since the file is saved as A.java
+By keeping in mind what is the class name
